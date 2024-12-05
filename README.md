@@ -86,6 +86,9 @@ POST /api/flights: Add a new flight.
 PUT /api/flights/:id: Update flight details.
 DELETE /api/flights/:id: Delete a flight.
 
+### Testing
+- npm test
+
 #### Contributing
 
 Contributions are welcome! Submit a pull request to suggest improvements.
